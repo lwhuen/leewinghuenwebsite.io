@@ -2,6 +2,7 @@ table,
 th,
 td {
     margin-left: 10px;
+    margin-right: 10px;
     border: 1px solid black;
     font-size: 1em;
 }
