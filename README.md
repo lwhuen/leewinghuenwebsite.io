@@ -1,2 +1,2 @@
-# leewinghuenwebsite.io
+# lwhuen.io
 My Personal Website
