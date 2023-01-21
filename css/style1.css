@@ -73,7 +73,7 @@ h4 {
 }
 
 .header {
-    height: 4vh;
+    height: 4%;
     width: 100%;
     position: fixed;
     z-index: 99;
@@ -83,7 +83,7 @@ h4 {
 }
 
 .bottom {
-    height: 96vh;
+    height: 96%;
     width: 100%;
     position: fixed;
     z-index: 1;
