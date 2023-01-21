@@ -77,13 +77,13 @@ h4 {
     width: 100%;
     position: fixed;
     z-index: 99;
-    padding-top: 20px;
+    padding-top: 15px;
     top: 0;
     background-color: #ECB365
 }
 
 .bottom {
-    height: 93vh;
+    height: 96vh;
     width: 100%;
     position: fixed;
     z-index: 1;
