@@ -87,10 +87,11 @@ h4 {
     width: 100%;
     position: fixed;
     z-index: 1;
-    padding-top: 20px;
     right: 0;
     bottom: 0;
     background-color: #064663;
+    overflow-y: visible;
+    overflow-x: auto;
 }
 
 .centered {
@@ -154,4 +155,18 @@ a:hover {
 a:active {
     text-decoration: underline;
     color: #064663;
+}
+
+::-webkit-scrollbar {
+    width: 18px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #064663;
+    border-radius: 10px;
 }
