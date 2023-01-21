@@ -34,7 +34,7 @@ tr:hover {
 }
 
 .header {
-    height: 4%;
+    height: 5%;
     width: 100%;
     position: fixed;
     z-index: 99;
@@ -58,11 +58,11 @@ p {
 }
 
 .bottom {
-    height: 94%;
+    height: 95%;
     width: 100%;
     position: fixed;
     z-index: 1;
-    padding: 12px;
+    padding: 16px 2px 0px 12px;
     left: 0;
     bottom: 0;
     background-color: rgba(255, 237, 212, 0.684);
