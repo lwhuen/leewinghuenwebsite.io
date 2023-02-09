@@ -1,15 +1,13 @@
 table,
 th,
 td {
-    margin-left: 10px;
-    margin-right: 10px;
-    border: 1px solid black;
-    font-size: 1em;
+    margin: 10px;
+    border: 0;
+    font-size: 18px;
 }
 
 tr:hover {
-    background-color: #d9fffe;
-    font-size: 1.05em;
+    background-color: #edfffe;
 }
 
 .button__text {
