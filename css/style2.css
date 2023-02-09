@@ -188,11 +188,11 @@ p {
 }
 
 .btn:hover {
-    background: #064663;
-    background-image: -webkit-linear-gradient(top, #064663, #3498db);
-    background-image: -moz-linear-gradient(top, #064663, #3498db);
-    background-image: -ms-linear-gradient(top, #064663, #3498db);
-    background-image: -o-linear-gradient(top, #064663, #3498db);
-    background-image: linear-gradient(to bottom, #064663, #3498db);
+    background: #0d6991;
+    background-image: -webkit-linear-gradient(top, #0d6991, #3498db);
+    background-image: -moz-linear-gradient(top, #0d6991, #3498db);
+    background-image: -ms-linear-gradient(top, #0d6991, #3498db);
+    background-image: -o-linear-gradient(top, #0d6991, #3498db);
+    background-image: linear-gradient(to bottom, #0d6991, #3498db);
     text-decoration: none;
 }
