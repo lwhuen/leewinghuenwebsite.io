@@ -9,7 +9,7 @@ body {
 }
 
 .card {
-    padding: 1px;
+    padding: 9px 1px 9px 1px;
     width: 500px;
     background-color: #F5EFE6;
     border-radius: 12px;
