@@ -172,6 +172,7 @@ p {
 }
 
 .btn {
+    display: inline-block;
     background: #064663;
     background-image: -webkit-linear-gradient(top, #064663, #2980b9);
     background-image: -moz-linear-gradient(top, #064663, #2980b9);
