@@ -200,3 +200,7 @@ p {
     background-image: linear-gradient(to bottom, #0d6991, #3498db);
     text-decoration: none;
 }
+
+li.right {
+    margin-left: 2em;
+}
