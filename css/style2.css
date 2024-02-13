@@ -201,6 +201,10 @@ p {
     text-decoration: none;
 }
 
-li.right {
+li.right{
     margin-left: 2em;
+}
+
+a.right {
+    margin-left: 3.5em;
 }
